@@ -1,2 +1,2 @@
 # TRAP
-TRAP: Two-level Regularized Autoencoder-based Embedding\\ for Power-law Distributed Data
+TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data
