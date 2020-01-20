@@ -3,10 +3,10 @@ import tensorflow as tf
 import time
 import argparse
 
-from u_autoRec import uAutoRec
-from cdae import CDAE
-from multivae import multiVAE
-from JCA import JCA
+from model.u_autoRec import uAutoRec
+from model.cdae import CDAE
+from model.multivae import multiVAE
+from model.JCA import JCA
 
 import os
 #os.environ["CUDA_VISIBLE_DEVICES"]="0"
