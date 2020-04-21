@@ -19,7 +19,7 @@ TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distribute
 
 ## References
 
-Because **TRAP** is a meta-algorithm (regularizer), we develop our algorithm based on existing baseline methods. The github source code mainly used are the following:
+Because **TRAP** is a meta-algorithm (regularizer), we combined it with existing baseline methods to improve the performance. The github source code mainly used are the following:
 
 User-item Embedding
 - https://github.com/Zziwei/Joint-Collaborative-Autoencoder, Joint Collaborative Autoencoder (JCA), TheWebConf, 2019. 
