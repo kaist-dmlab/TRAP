@@ -147,7 +147,7 @@ class multiVAE:
         if self.using_trap == 0:
             self.U_Encoder = self.g_act(pre_Encoder)
             mu_q = self.U_Encoder[:, :self.U_hidden_neuron]
-            logvar_q = self.U_Encoder[:, :self.U_hidden_neuron]
+            logvar_q = self.U_Encoder[:, self.U_hidden_neuron:]
 
         else:
             self.g_act = tf.nn.tanh
