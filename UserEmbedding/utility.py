@@ -1,8 +1,3 @@
-"""
-Ziwei Zhu
-Computer Science and Engineering Department, Texas A&M University
-zhuziwei@tamu.edu
-"""
 from __future__ import division
 
 from math import log
