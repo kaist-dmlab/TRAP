@@ -15,7 +15,7 @@ TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distribute
 
 ## Usage
 
-2 tasks are used to evaluate the effectiveness of **TRAP**; *(1)Top-k recommendation with user-item embedding* and *(2) Node classification with node embedding*. The source code of each task is in the *UserEmbedding* and *NodeEmbedding* folders, respectively. Detail instructions of how to run the codes can be found on Readme.md files in each folder.
+Two tasks are used to evaluate the effectiveness of **TRAP**; *(1)Top-k recommendation with user-item embedding* and *(2) Node classification with node embedding*. The source code of each task is in the *UserEmbedding* and *NodeEmbedding* folders, respectively. Detail instructions of how to run the codes can be found on Readme.md files in each folder.
 
 ## References
 
