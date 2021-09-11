@@ -45,4 +45,3 @@ Thank you for the authors.
 ## Contact
 
 Please post a Github issue or contact dongminpark@kaist.ac.kr if you have any questions. Thanks.
- 
