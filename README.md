@@ -16,6 +16,10 @@
 }
 ```
 
+## Paper/Video Links
+
+[paper](https://dl.acm.org/doi/pdf/10.1145/3366423.3380233)[video](https://www.youtube.com/watch?v=WIwjRhbA-30)
+
 
 ## Setup
 
