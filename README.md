@@ -6,7 +6,7 @@
 
 ## Citations
 
-'''
+```
 @inproceedings{park2020trap,
   title={TRAP: Two-level regularized autoencoder-based embedding for power-law distributed data},
   author={Park, Dongmin and Song, Hwanjun and Kim, Minseok and Lee, Jae-Gil},
@@ -14,9 +14,8 @@
   pages={1615--1624},
   year={2020}
 }
-'''
+```
 
-TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data, TheWebConf, 2020.
 
 ## Setup
 
